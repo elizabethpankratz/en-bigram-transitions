@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  English character bigram frequencies and transitional
+  frequencies
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Elizabeth
+    family-names: Pankratz
+    affiliation: University of Edinburgh
+    orcid: 'https://orcid.org/0000-0001-8453-1105'
+repository-code: 'https://github.com/elizabethpankratz/en-bigram-transitions'
+keywords:
+  - English
+  - corpus
+  - bigram
+  - transitional frequency
+  - frequency
+license: CC-BY-2.0
+commit: d5ba9599d104aa7692b29627534b2c2f6a575bac
+version: '1'
+date-released: '2023-06-26'
