@@ -47,7 +47,7 @@ If you are running artificial language learning experiments with English-speakin
   - In: Nothing.
   - Out: `data/encow_sents.csv` (gitignored due to size and copyright; contains 351,392 sentences)
 
-- `code/2_count_bigrams.ipynb`: Gets all character bigrams from subset of ENCOW data. Counts them and all transitions between them.
+- `code/2_count_bigrams.ipynb`: Gets all character bigrams (both within and between words) in corpus data. Counts them and all transitions between them.
 
   - In: `data/encow_sents.csv`
   - Out: 
