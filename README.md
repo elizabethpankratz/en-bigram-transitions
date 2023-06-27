@@ -45,7 +45,7 @@ If you are running artificial language learning experiments with English-speakin
 - `code/1_get_encow_sents.py`: A Python 2 script run on the SeaCOW server in fall 2022. Queries the web corpus for all sentences belonging to boilerplate class `a` or `b` (that is, actual content and not just the peripheral junk that's often found on websites) and in documents of badness class `a` or `b` (that is, well-formed standard English).
 
   - In: Nothing.
-  - Out: `data/encow_sents.csv` (gitignored due to size; contains 351,392 sentences)
+  - Out: `data/encow_sents.csv` (gitignored due to size and copyright; contains 351,392 sentences)
 
 - `code/2_count_bigrams.ipynb`: Gets all character bigrams from subset of ENCOW data. Counts them and all transitions between them.
 
