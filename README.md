@@ -1,6 +1,6 @@
 # English character bigram frequencies and transitional frequencies
 
-For use in, e.g., creating controlled stimuli for artificial language learning experiments.
+For use in, e.g., creating controlled stimuli for artificial language learning experiments with English-speaking participants, or computing corpus-based transitional probabilities between English bigrams.
 
 Created by Elizabeth Pankratz in 2022 based on web corpus data from [ENCOW16A-NANO](https://www.webcorpora.org).
 
